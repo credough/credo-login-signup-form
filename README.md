@@ -38,10 +38,10 @@ Only the login form works in this version.
 ## Screenshots
 
 ### Login Page (Working)  
-![Login Screenshot](screenshots/login.png)
+![Login Screenshot](login.png)
 
 ### Sign Up Page (Broken)  
-![Sign Up Screenshot](screenshots/signup-error.png)
+![Sign Up Screenshot](signup-error.png)
 
 ---
 
