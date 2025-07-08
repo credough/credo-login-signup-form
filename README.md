@@ -1,6 +1,6 @@
 # Credo | Login & Sign Up Form
 
-This is my **first-ever personal front-end project** built using **HTML and CSS**, with a bit of **JavaScript** for transitioning between forms.  
+This is my first-ever personal front-end project built using **HTML and CSS**, with a bit of **JavaScript** for transitioning between forms.  
 I’ve made some practice pages before to learn basic syntax, but this is my first attempt at putting everything together into one working webpage.
 
 ---
@@ -30,7 +30,7 @@ function register() {
 
 ```
 
-Because of that, the layout got messed up and the sign-up form didn’t show up.  
+Because of that, the layout got messed up and the sign-up form didn’t show up when cliking the **Sign Up**.  
 Only the login form works in this version.
 
 ---
@@ -49,7 +49,7 @@ Only the login form works in this version.
 
 Even though I didn’t finish this project 100%, I’m still proud of it.  
 I learned that JavaScript is tricky, and I need to study it more.  
-Next time, I want to fix this and build better websites.
+Next time, I want to fix this and build better one.
 
 ---
  
