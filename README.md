@@ -1,4 +1,4 @@
-# Credo | Login & Sign Up Form
+# Credo | Login & Sign Up Form (Front-end)
 
 This is my first-ever personal front-end project built using **HTML and CSS**, with a bit of **JavaScript** for transitioning between forms.  
 I’ve made some practice pages before to learn basic syntax, but this is my first attempt at putting everything together into one working webpage.
