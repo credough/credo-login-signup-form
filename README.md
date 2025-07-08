@@ -28,7 +28,7 @@ function register() {
   document.querySelector('.form-box').classList.add('active');
 }
 
----
+```
 
 Because of that, the layout got messed up and the sign-up form didn’t show up.  
 Only the login form works in this version.
