@@ -28,6 +28,8 @@ function register() {
   document.querySelector('.form-box').classList.add('active');
 }
 
+```
+
 Because of that, the layout got messed up and the sign-up form didn’t show up.  
 Only the login form works in this version.
 
@@ -63,4 +65,4 @@ Next time, I want to fix this and build better websites.
 ## Final Thoughts
 
 This is only the beginning HEHE.  
-I will keep practicing and improving. After fully learning this, I'll planning to implement logic and database in my projects using PHP and SQL.
+I will keep practicing and improving. After fully learning this, I'm planning to implement logic and database in my projects using PHP and SQL.
